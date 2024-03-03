@@ -1,0 +1,39 @@
+html, body {
+  background-color: #2F4F30;
+  color: #fff;
+  height: 100%;
+}
+
+.deck {
+  height: 280px;
+}
+
+.deck__cards {
+  width: 130px;
+  position: relative;
+  margin-left: -75px;
+  left: 38px;
+}
+
+@media screen and (min-height: 1180px) {
+  .deck {
+    height: 410px;
+  }
+  
+  .deck__cards {
+    width: 210px;
+  } 
+}
+
+@media screen and (max-height: 653px) {
+  .deck {
+    height: 225px;
+  }
+  
+  .deck__cards {
+    width: 110px;
+  } 
+}
+
+
+
