@@ -46,7 +46,7 @@ npm run dev
 ```
 5. Open your web browser and visit http://localhost:5173 to play the Blackjack game.
 
-You can also try the live demo [here](blackjack-game-vite-js.netlify.app).
+You can also try the live demo [here](https://blackjack-game-vite-js.netlify.app/).
 
 ## Usage
 To start the game, click the "New Game" button. Then, use the "Hit" button to draw a new card from the deck, and the "Stop" button to end your turn.
